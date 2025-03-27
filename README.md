@@ -6,7 +6,7 @@ This **Power BI dashboard** provides insights into sales trends, stock levels, a
 ---
 
 ## 📸 Dashboard Preview  
-![Screenshot 2025-03-15 141803](https://github.com/user-attachments/assets/a0d0b0a9-dbe2-4744-bfaf-7c7e58e559fa)
+![Sales Dashboard](https://github.com/user-attachments/assets/cf1808a7-91d3-43fe-bd62-38dc89f3e709)
 
 
 ## 📈 Key Insights  
